@@ -1,0 +1,28 @@
+{
+  "name": "laravel-echo-spa-plugin",
+  "version": "0.1.0",
+  "description": "A library to simplify the integration of Laravel Echo with your SPA/PWA",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/motia/laravel-echo-module.git"
+  },
+  "keywords": [
+    "laravel-echo",
+    "websockets",
+    "laravel",
+    "nuxt.js",
+    "SPA",
+    "PWA",
+    "vue.js"
+  ],
+  "author": "Mouti'a Benachour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/motia/laravel-echo-module/issues"
+  },
+  "homepage": "https://github.com/motia/laravel-echo-module#readme"
+}
